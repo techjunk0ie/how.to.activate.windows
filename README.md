@@ -1,6 +1,6 @@
 # how to activate windows
 
-[![how to activate windows](gett-detail.png)](https://github.com/techjunk0ie/how.to.activate.windows/)
+[![how to activate windows](gett-detail.png)](https://icncomputer.com/how-to-activate-windows/)
 
 To activate Windows, you need a digital license or a product key. If you're ready to activate, select Open Activation in Settings. Click Change product key to enter a Windows product key. If Windows was previously activated on your device, your copy of Windows 10 or Windows 11 should be activated automatically.
 
